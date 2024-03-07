@@ -3,7 +3,7 @@
 <h3>Prerequisites</h3>
 <ul>
   <li>Eclipse IDE</li>
-  <li>Google Chrome Driver</li>
+  <li>Chrome Driver</li>
   <li>Java</li>
 </ul>
 
@@ -11,7 +11,7 @@
 
 <img src="https://github.com/gayaniC/lexus_selenium/blob/master/images/pom.jpg" alt="diagram" />
 
-In this project Used Page Object Model for Creating Selenium Scripts.
+In this project Used Page Object Model for Creating Selenium Scripts. According to this created two packages named Pages and test. Inside the Pages package can include all class file relavent to each web page and inside the test package can include all test files relavent to each classes created inside Pages package.
 
 <h3>How to run the project</h3>
 <ul>
